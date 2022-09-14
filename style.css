@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  width: 300px;
+  border: 15px solid rgb(0, 98, 128);
+  padding: 50px;
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  align-items: center;
+}
+
+#img {
+  width: 100px;
+}
